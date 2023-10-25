@@ -1,0 +1,500 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Isabel",
+      "surnames": "Llanes",
+      "title": "Software Consultant at Thoughtworks",
+      "description": "Full Stack Developer staunch advocate of agile methodologies\n\n",
+      "avatar": {
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/10/25/73ab88db-daac-4b63-9b71-efa807e97108_linkedin-photo-46068.linkedin-photo-46068",
+        "alt": "23/10/25/73ab88db-daac-4b63-9b71-efa807e97108_linkedin-photo-46068.linkedin-photo-46068"
+      },
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJd_LANWMvQg0RGYggE7EPcZM)",
+        "country": "España",
+        "region": "Community of Madrid"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/isabel-llanes-131bb2178/"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Thoughtworks",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/10/25/5e46179d-a8f2-46f3-ab56-9b58549f6532_linkedin-photo-46068.linkedin-photo-46068",
+            "alt": "23/10/25/5e46179d-a8f2-46f3-ab56-9b58549f6532_linkedin-photo-46068.linkedin-photo-46068"
+          }
+        },
+        "roles": [
+          {
+            "name": "Software Consultant",
+            "startDate": "2022-10-01",
+            "challenges": [
+              {
+                "description": "April 2023 - August 2023\nDuring this period I had the opportunity to work in a data science project. During this period I was in a team where we had to refactor the code so that the client could work with the correct data. The code was written in Scala Spark for scalability and some in Python for scripting. Some business logic was written in SQL as well.\n\n-------------------------------------------\n\nNovember 2002 March 2003\nThis time, my work focused on developing a new functionality for the client operations team. This functionality was to be able to download documents with financing / invoicing data from real users. I was also involved in implementing business nomenclature changes.\n \nTech Stack:\nFrontend - Languages/libraries: Typescript; React; Frameworks: Express, Node.js\nBackend - Languages/libraries: Java; Lombok; Communication: Kafka; Frameworks: Spring, Quarkus; Build tool: Maven\nQA/Testing - Cypress; Testing Library: JUnit5; Mockito\nRepo - BitBucket\nDB - PostgreSQL\nInfra/Deploy - Jenkins\nProcesses/Methodologies - Kanban, Trunk-based development, Feature Toggles, TDD"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Thoughtworks",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/10/25/04930bee-94d9-4f21-ade4-396200f256e8_linkedin-photo-46068.linkedin-photo-46068",
+            "alt": "23/10/25/04930bee-94d9-4f21-ade4-396200f256e8_linkedin-photo-46068.linkedin-photo-46068"
+          }
+        },
+        "roles": [
+          {
+            "name": "Graduate Software Consultant",
+            "startDate": "2021-07-01",
+            "finishDate": "2022-10-31",
+            "challenges": [
+              {
+                "description": "September 2021-January 2022\n \nI was assigned as a junior developer during the inception of the project. It was an extension to an existing stream of work, as part of micro services migration, whose main goal was to create an API to provide data science capabilities for a multinational groceries and general merchandise retailer.\nI actively participated in the project, from the initial inception to the further delivery, becoming a core member of the planning team, both coding and facilitating team ceremonies.\n \nTech Stack:\nBackend - Languages/libraries: C#; Frameworks: ASP.NET, .NET Framework \nQA/Testing - xUnit, Fluent Assertions\nRepo - Gitlab\nDB - Mysql\nInfra/Deploy - Teamcity\nProcesses/Methodologies - Scrum, Feature branching, TDD"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Thoughtworks",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/10/25/0bcecf5f-d253-41f8-8864-ef86413947fd_linkedin-photo-46068.linkedin-photo-46068",
+            "alt": "23/10/25/0bcecf5f-d253-41f8-8864-ef86413947fd_linkedin-photo-46068.linkedin-photo-46068"
+          }
+        },
+        "roles": [
+          {
+            "name": "Thoughtworks Univesity",
+            "startDate": "2021-05-01",
+            "finishDate": "2021-07-31",
+            "challenges": [
+              {
+                "description": "2 months long development program where I could grow in skills like:\n\n- Backend / Front End web development\n- API and Service Design\n- TDD\n- Continuous Integration\n- Getting Code into Production\n- Clean Code\n- Clean Architecture\n- Collaboration and Feedback\n\nAlso during this program I had the opportunity to acquire excellent soft skills during 1:1 sessions, retrospectives, standups and communication within the whole team."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "GroupM",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/10/25/2ae1996b-ebfa-4dd5-8f30-86867a9aa2a9_linkedin-photo-46068.linkedin-photo-46068",
+            "alt": "23/10/25/2ae1996b-ebfa-4dd5-8f30-86867a9aa2a9_linkedin-photo-46068.linkedin-photo-46068"
+          }
+        },
+        "roles": [
+          {
+            "name": "Ad Ops Executive",
+            "startDate": "2019-05-01",
+            "finishDate": "2021-04-30",
+            "challenges": [
+              {
+                "description": "Main functions as GroupM Ad Operations Executive or Trafficker were: \n- Management and implementation of advertising campaigns for Mindshare, a global media agency. \n- Checking the technical feasibility of the implementation of digital campaigns and troubleshooting. \n- Traffic, tracking and optimisation of campaigns from different ad servers Google, Sizmek Amazon). \n- Management of scripts for implementation in digital media.\n- Main contact person for the creative agency.\n- Implementation of third party pixels and cookies using Javascript and Google Tag Manager\n- Audience review with Google Analytics."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Inter-Com English, S.A."
+        },
+        "roles": [
+          {
+            "name": "Educadora infantil de inglés",
+            "startDate": "2016-06-01",
+            "finishDate": "2016-07-31"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "CRC Information Technologies",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/10/25/0d6d21dd-4b10-41d7-96d8-83cf1e1f8320_linkedin-photo-46068.linkedin-photo-46068",
+            "alt": "23/10/25/0d6d21dd-4b10-41d7-96d8-83cf1e1f8320_linkedin-photo-46068.linkedin-photo-46068"
+          }
+        },
+        "roles": [
+          {
+            "name": "Profesor de inglés",
+            "startDate": "2011-09-01",
+            "finishDate": "2012-05-31"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "YMCA España",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/10/25/05fc98cb-2b1d-438e-8e1c-c42be4de6d0a_linkedin-photo-46068.linkedin-photo-46068",
+            "alt": "23/10/25/05fc98cb-2b1d-438e-8e1c-c42be4de6d0a_linkedin-photo-46068.linkedin-photo-46068"
+          }
+        },
+        "roles": [
+          {
+            "name": "Coordinador de programa y voluntariado en campamentos de EEUU",
+            "startDate": "2008-06-01",
+            "finishDate": "2008-08-31"
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "EN",
+        "level": "Full professional proficiency"
+      },
+      {
+        "name": "ES",
+        "level": "Native or bilingual proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Databricks",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "GitLab",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JUnit",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Maven",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Mockito",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PostgreSQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PySpark",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Spark",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Spring Boot",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Certified Lean Inception Facilitator",
+        "startDate": "2022-10-01",
+        "institution": {
+          "name": "Caroli.org"
+        }
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Filologia Inglesa",
+        "startDate": "2006-09-01",
+        "institution": {
+          "name": "Universidad Complutense de Madrid"
+        },
+        "finishDate": "2012-09-01"
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Fundamentos de desarrollo con Visual Studio",
+        "startDate": "2017-10-01",
+        "institution": {
+          "name": "CFTic (C.F. Tecnologias de la información y las Comunicaciones de Madrid)",
+          "URL": "https://cftic.centrosdeformacion.empleo.madrid.org/"
+        },
+        "finishDate": "2018-03-01",
+        "linkedCompetences": [
+          {
+            "name": ".NET",
+            "type": "technology"
+          },
+          {
+            "name": "C#",
+            "type": "technology"
+          },
+          {
+            "name": "SQLServer",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Javascript Basics",
+        "startDate": "2020-10-01",
+        "institution": {
+          "name": "HackerRank",
+          "URL": "https://www.hackerrank.com/certificates/6f10109c49a9",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/10/25/7af2d554-eefb-489d-8976-66f6ef21f92f_800px-hackerrank_ico.png",
+            "alt": "800px-HackerRank_Icon-1000px.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "MTA: HTML5 Application Development Fundamentals",
+        "startDate": "2018-06-01",
+        "institution": {
+          "name": "Microsoft",
+          "URL": "https://www.credly.com/badges/0d90cbde-e5ce-468e-81fa-50bb8c8450cb/linked_in_profile",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/10/25/aa0193da-c413-4797-a474-5a6bb6c092be_mta-html5-applicatio.png",
+            "alt": "MTA-HTML5-Application-Development-Fundamentals.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Programador de nuevas tecnologías en entorno gráfico",
+        "startDate": "2017-04-01",
+        "institution": {
+          "name": "Microforum"
+        },
+        "finishDate": "2017-10-01",
+        "linkedCompetences": [
+          {
+            "name": "Arduino",
+            "type": "technology"
+          },
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "Scratch",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Web Development Bootcamp",
+        "startDate": "2019-01-01",
+        "institution": {
+          "name": "Ironhack",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/10/25/876cd57a-4841-42e8-be9b-01a8e6dc816a_ironhack.png",
+            "alt": "ironhack.png"
+          }
+        },
+        "finishDate": "2019-03-01",
+        "linkedCompetences": [
+          {
+            "name": "Express",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "MongoDB",
+            "type": "technology"
+          },
+          {
+            "name": "React",
+            "type": "technology"
+          },
+          {
+            "name": "Visual Studio Code",
+            "type": "technology"
+          }
+        ]
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Adaptabilidad al cambio",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Inteligencia emocional",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Proactividad",
+          "type": "practice"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://www.linkedin.com/in/isabel-llanes-131bb2178/",
+          "type": "linkedin"
+        }
+      ],
+      "contactMails": [
+        "misabellanes@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "671738833",
+          "countryCode": "+34"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "JAVA",
+          "type": "technology"
+        },
+        {
+          "name": "Python",
+          "type": "technology"
+        },
+        {
+          "name": "Spring Boot",
+          "type": "technology"
+        }
+      ],
+      "preferredRoles": [
+        "Data Engineer",
+        "Full-stack Developer"
+      ]
+    },
+    "status": "searchingActively"
+  },
+  "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "GitLab",
+        "type": "technology"
+      },
+      {
+        "name": "JAVA",
+        "type": "technology"
+      },
+      {
+        "name": "JUnit",
+        "type": "technology"
+      },
+      {
+        "name": "Python",
+        "type": "technology"
+      },
+      {
+        "name": "Spring Boot",
+        "type": "technology"
+      }
+    ],
+    "desiredJobDescription": "I would like to work in a place where people have a similar culture. Where people follow agile best practices, communicate with all members of a cross-functional team (architecture design, approach, etc.). Also people who champion continuous delivery best practices. For example, iterative \"MVP\" approach, frequent releases, automation. One of the things I value most is for the team to master best practices such as Clean Code, Pair Programming, design patterns."
+  }
+}
