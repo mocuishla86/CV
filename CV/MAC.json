@@ -495,6 +495,6 @@
         "type": "technology"
       }
     ],
-    "desiredJobDescription": "I would like to work in a place where people have a similar culture. Where people follow agile best practices, communicate with all members of a cross-functional team (architecture design, approach, etc.). Also people who champion continuous delivery best practices. For example, iterative \"MVP\" approach, frequent releases, automation. One of the things I value most is for the team to master best practices such as Clean Code, Pair Programming, design patterns."
+    "desiredJobDescription": "I would like to work in a place where people have a similar culture. Where people follow agile best practices, communicate with all members of a cross-functional team (architecture design, approach, etc.). Also people who champion continuous delivery best practices. For example, iterative \"MVP\" approach, frequent releases, automation. One of the things I value most is for the team to master best practices such as Clean Code, Pair Programming and TDD"
   }
 }
