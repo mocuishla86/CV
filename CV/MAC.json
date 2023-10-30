@@ -295,6 +295,16 @@
         ]
       },
       {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Grado Superior en Educación Infantil",
+        "startDate": "2013-09-01",
+        "institution": {
+          "name": "I.E.S. Principe Felipe - Comunidad de Madrid"
+        },
+        "finishDate": "2016-06-01"
+      },
+      {
         "studyType": "certification",
         "degreeAchieved": false,
         "name": "Javascript Basics",
