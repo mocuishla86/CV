@@ -1,18 +1,18 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
     "language": "EN",
-    "MACVersion": "0.3"
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
       "name": "Isabel",
       "surnames": "Llanes",
       "title": "Software Consultant at Thoughtworks",
-      "description": "Full Stack Developer \n\nJavaScript / Python / Java / C#",
+      "description": "Full Stack Developer\n\nJavaScript / Python / Java / C#",
       "avatar": {
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/10/31/ff00b2f3-3de6-4900-961e-7a6f6266a9a4_linkedin-photo-46068.linkedin-photo-46068",
-        "alt": "23/10/31/ff00b2f3-3de6-4900-961e-7a6f6266a9a4_linkedin-photo-46068.linkedin-photo-46068"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/07/2100bc22-2456-4458-bf3d-4e61d4b1c1ae_linkedin-photo-46068.linkedin-photo-46068",
+        "alt": "24/02/07/2100bc22-2456-4458-bf3d-4e61d4b1c1ae_linkedin-photo-46068.linkedin-photo-46068"
       },
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJd_LANWMvQg0RGYggE7EPcZM)",
@@ -23,138 +23,7 @@
     "relevantLinks": [
       {
         "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/isabel-llanes-131bb2178/"
-      }
-    ]
-  },
-  "experience": {
-    "jobs": [
-      {
-        "organization": {
-          "name": "Thoughtworks",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/10/31/13f63f50-62b0-45da-9cae-e0cdf484c423_linkedin-photo-46068.linkedin-photo-46068",
-            "alt": "23/10/31/13f63f50-62b0-45da-9cae-e0cdf484c423_linkedin-photo-46068.linkedin-photo-46068"
-          }
-        },
-        "roles": [
-          {
-            "name": "Software Consultant",
-            "startDate": "2022-10-01",
-            "challenges": [
-              {
-                "description": "I am currently working on a project as an infrastructure consultant. Basically the work consists of deploying microservices on Kubernetes. The deployment is being done with gitlab-ci, Octopus as build management and continuous integration, and Kubernetes on Azure Cloud Services.\n\n------------------------------------------\n\nApril 2023 - August 2023\nDuring this period I had the opportunity to work in a data science project. During this period I was in a team where we had to refactor the code so that the client could work with the correct data. The code was written in Scala Spark for scalability and some in Python for scripting. Some business logic was written in SQL as well.\n\n-------------------------------------------\n\nNovember 2002 March 2003\nThis time, my work focused on developing a new functionality for the client operations team. This functionality was to be able to download documents with financing / invoicing data from real users. I was also involved in implementing business nomenclature changes.\n \nTech Stack:\nFrontend - Languages/libraries: Typescript; React; Frameworks: Express, Node.js\nBackend - Languages/libraries: Java; Lombok; Communication: Kafka; Frameworks: Spring, Quarkus; Build tool: Maven\nQA/Testing - Cypress; Testing Library: JUnit5; Mockito\nRepo - BitBucket\nDB - PostgreSQL\nInfra/Deploy - Jenkins\nProcesses/Methodologies - Kanban, Trunk-based development, Feature Toggles, TDD"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Thoughtworks",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/10/31/12297ec5-4526-42b8-a922-1e67abeca647_linkedin-photo-46068.linkedin-photo-46068",
-            "alt": "23/10/31/12297ec5-4526-42b8-a922-1e67abeca647_linkedin-photo-46068.linkedin-photo-46068"
-          }
-        },
-        "roles": [
-          {
-            "name": "Graduate Software Consultant",
-            "startDate": "2021-07-01",
-            "finishDate": "2022-10-31",
-            "challenges": [
-              {
-                "description": "September 2021-January 2022\n \nI was assigned as a junior developer during the inception of the project. It was an extension to an existing stream of work, as part of micro services migration, whose main goal was to create an API to provide data science capabilities for a multinational groceries and general merchandise retailer.\nI actively participated in the project, from the initial inception to the further delivery, becoming a core member of the planning team, both coding and facilitating team ceremonies.\n \nTech Stack:\nBackend - Languages/libraries: C#; Frameworks: ASP.NET, .NET Framework \nQA/Testing - xUnit, Fluent Assertions\nRepo - Gitlab\nDB - Mysql\nInfra/Deploy - Teamcity\nProcesses/Methodologies - Scrum, Feature branching, TDD"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Thoughtworks",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/10/31/30a825f8-5979-4b84-88c0-eb4f442f85f8_linkedin-photo-46068.linkedin-photo-46068",
-            "alt": "23/10/31/30a825f8-5979-4b84-88c0-eb4f442f85f8_linkedin-photo-46068.linkedin-photo-46068"
-          }
-        },
-        "roles": [
-          {
-            "name": "Thoughtworks Univesity",
-            "startDate": "2021-05-01",
-            "finishDate": "2021-07-31",
-            "challenges": [
-              {
-                "description": "2 months long development program where I could grow in skills like:\n\n- Backend / Front End web development\n- API and Service Design\n- TDD\n- Continuous Integration\n- Getting Code into Production\n- Clean Code\n- Clean Architecture\n- Collaboration and Feedback\n\nAlso during this program I had the opportunity to acquire excellent soft skills during 1:1 sessions, retrospectives, standups and communication within the whole team."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "GroupM",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/10/31/f025f46f-1bd5-48b0-9d31-3349cc11c246_linkedin-photo-46068.linkedin-photo-46068",
-            "alt": "23/10/31/f025f46f-1bd5-48b0-9d31-3349cc11c246_linkedin-photo-46068.linkedin-photo-46068"
-          }
-        },
-        "roles": [
-          {
-            "name": "Ad Ops Executive",
-            "startDate": "2019-05-01",
-            "finishDate": "2021-04-30",
-            "challenges": [
-              {
-                "description": "Main functions as GroupM Ad Operations Executive or Trafficker were: \n- Management and implementation of advertising campaigns for Mindshare, a global media agency. \n- Checking the technical feasibility of the implementation of digital campaigns and troubleshooting. \n- Traffic, tracking and optimisation of campaigns from different ad servers Google, Sizmek Amazon). \n- Management of scripts for implementation in digital media.\n- Main contact person for the creative agency.\n- Implementation of third party pixels and cookies using Javascript and Google Tag Manager\n- Audience review with Google Analytics."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Inter-Com English, S.A."
-        },
-        "roles": [
-          {
-            "name": "Educadora infantil de inglés",
-            "startDate": "2016-06-01",
-            "finishDate": "2016-07-31"
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "CRC Information Technologies",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/10/31/6e2b827d-7c81-4289-9944-a4949e88e249_linkedin-photo-46068.linkedin-photo-46068",
-            "alt": "23/10/31/6e2b827d-7c81-4289-9944-a4949e88e249_linkedin-photo-46068.linkedin-photo-46068"
-          }
-        },
-        "roles": [
-          {
-            "name": "Profesor de inglés",
-            "startDate": "2011-09-01",
-            "finishDate": "2012-05-31"
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "YMCA España",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/10/31/55163280-7d03-4025-af04-be5504018b5b_linkedin-photo-46068.linkedin-photo-46068",
-            "alt": "23/10/31/55163280-7d03-4025-af04-be5504018b5b_linkedin-photo-46068.linkedin-photo-46068"
-          }
-        },
-        "roles": [
-          {
-            "name": "Coordinador de programa y voluntariado en campamentos de EEUU",
-            "startDate": "2008-06-01",
-            "finishDate": "2008-08-31"
-          }
-        ]
+        "URL": "https://linkedin.com/in/isabel-llanes-131bb2178"
       }
     ]
   },
@@ -162,10 +31,12 @@
     "languages": [
       {
         "name": "EN",
+        "fullName": "Inglés",
         "level": "Full professional proficiency"
       },
       {
         "name": "ES",
+        "fullName": "Español",
         "level": "Native or bilingual proficiency"
       }
     ],
@@ -426,18 +297,12 @@
     "contact": {
       "publicProfiles": [
         {
-          "URL": "https://www.linkedin.com/in/isabel-llanes-131bb2178/",
+          "URL": "https://linkedin.com/in/isabel-llanes-131bb2178",
           "type": "linkedin"
         }
       ],
       "contactMails": [
         "misabellanes@gmail.com"
-      ],
-      "phoneNumbers": [
-        {
-          "number": "671738833",
-          "countryCode": "+34"
-        }
       ]
     },
     "preferences": {
