@@ -9,10 +9,10 @@
       "name": "Isabel",
       "surnames": "Llanes",
       "title": "Software Consultant at Thoughtworks",
-      "description": "Full Stack Developer\n\nJavaScript / Python / Java / C#",
+      "description": "Full Stack Developer\n\nJavaScript / Python / Java / C# / DevOps",
       "avatar": {
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/07/93f11031-c58f-470f-ad25-0d8648022f34_linkedin-photo-46068.linkedin-photo-46068",
-        "alt": "24/02/07/93f11031-c58f-470f-ad25-0d8648022f34_linkedin-photo-46068.linkedin-photo-46068"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/07/488a64bf-7cdf-45e9-8e7a-fc692f642a12_linkedin-photo-46068.linkedin-photo-46068",
+        "alt": "24/02/07/488a64bf-7cdf-45e9-8e7a-fc692f642a12_linkedin-photo-46068.linkedin-photo-46068"
       },
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJd_LANWMvQg0RGYggE7EPcZM)",
@@ -24,217 +24,6 @@
       {
         "type": "linkedin",
         "URL": "https://linkedin.com/in/isabel-llanes-131bb2178"
-      }
-    ]
-  },
-  "experience": {
-    "jobs": [
-      {
-        "organization": {
-          "name": "Out of network connection"
-        },
-        "roles": [
-          {
-            "name": "Gerardo Vitale Errico",
-            "startDate": "2024-02-07",
-            "challenges": [
-              {
-                "description": "Gerardo Vitale Errico"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Out of network connection"
-        },
-        "roles": [
-          {
-            "name": "Lori King",
-            "startDate": "2024-02-07",
-            "challenges": [
-              {
-                "description": "Lori King"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Out of network connection"
-        },
-        "roles": [
-          {
-            "name": "Mariana Pérez González",
-            "startDate": "2024-02-07",
-            "challenges": [
-              {
-                "description": "Mariana Pérez González"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Out of network connection"
-        },
-        "roles": [
-          {
-            "name": "Danilo Sato",
-            "startDate": "2024-02-07",
-            "challenges": [
-              {
-                "description": "Danilo Sato"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Out of network connection"
-        },
-        "roles": [
-          {
-            "name": "Jeff Zinger",
-            "startDate": "2024-02-07",
-            "challenges": [
-              {
-                "description": "Jeff Zinger"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Thoughtworks",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/07/0439a8d0-f66c-4f98-8bc5-5692ee01b1db_linkedin-photo-46068.linkedin-photo-46068",
-            "alt": "24/02/07/0439a8d0-f66c-4f98-8bc5-5692ee01b1db_linkedin-photo-46068.linkedin-photo-46068"
-          }
-        },
-        "roles": [
-          {
-            "name": "Software Consultant",
-            "startDate": "2022-10-01",
-            "challenges": [
-              {
-                "description": "Skills: Metodologías ágiles · Integración continua y entrega continua (CI/CD) · GitLab · Docker · Helm · Kubernetes · Microsoft Azure · Jenkins · Python · Apache Spark · jupiter · SQL · Java · Maven"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Thoughtworks",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/07/4d6b2713-53cc-4aef-b982-661899d290b3_linkedin-photo-46068.linkedin-photo-46068",
-            "alt": "24/02/07/4d6b2713-53cc-4aef-b982-661899d290b3_linkedin-photo-46068.linkedin-photo-46068"
-          }
-        },
-        "roles": [
-          {
-            "name": "Graduate Software Consultant",
-            "startDate": "2021-07-01",
-            "finishDate": "2022-10-31",
-            "challenges": [
-              {
-                "description": "Skills: Metodologías ágiles · Desarrollo de software · C# · .NET Framework · TeamCity · TDD"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Thoughtworks",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/07/65e076b9-b785-42c7-a2d9-8556291fe380_linkedin-photo-46068.linkedin-photo-46068",
-            "alt": "24/02/07/65e076b9-b785-42c7-a2d9-8556291fe380_linkedin-photo-46068.linkedin-photo-46068"
-          }
-        },
-        "roles": [
-          {
-            "name": "Thoughtworks Univesity",
-            "startDate": "2021-05-01",
-            "finishDate": "2021-07-31",
-            "challenges": [
-              {
-                "description": "2 months long development program where I could grow in skills like:\n\n- Backend / Front End web development\n- API and Service Design\n- TDD\n- Continuous Integration\n- Getting Code into Production\n- Clean Code\n- Clean Architecture\n- Collaboration and Feedback\n\nAlso during this program I had the opportunity to acquire excellent soft skills during 1:1 sessions, retrospectives, standups and communication within the whole team."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "GroupM",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/07/a78735e5-3e47-4db7-baea-6c15c6be1b9f_linkedin-photo-46068.linkedin-photo-46068",
-            "alt": "24/02/07/a78735e5-3e47-4db7-baea-6c15c6be1b9f_linkedin-photo-46068.linkedin-photo-46068"
-          }
-        },
-        "roles": [
-          {
-            "name": "Ad Ops Executive",
-            "startDate": "2019-05-01",
-            "finishDate": "2021-04-30",
-            "challenges": [
-              {
-                "description": "Main functions as GroupM Ad Operations Executive or Trafficker were:\n- Management and implementation of advertising campaigns for Mindshare, a global media agency.\n- Checking the technical feasibility of the implementation of digital campaigns and troubleshooting.\n- Traffic, tracking and optimisation of campaigns from different ad servers Google, Sizmek Amazon).\n- Management of scripts for implementation in digital media.\n- Main contact person for the creative agency.\n- Implementation of third party pixels and cookies using Javascript and Google Tag Manager\n- Audience review with Google Analytics."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Inter-Com English, S.A."
-        },
-        "roles": [
-          {
-            "name": "Educadora infantil de inglés",
-            "startDate": "2016-06-01",
-            "finishDate": "2016-07-31"
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "CRC Information Technologies",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/07/807d2207-c233-4c7c-8c1f-5140964ee6ef_linkedin-photo-46068.linkedin-photo-46068",
-            "alt": "24/02/07/807d2207-c233-4c7c-8c1f-5140964ee6ef_linkedin-photo-46068.linkedin-photo-46068"
-          }
-        },
-        "roles": [
-          {
-            "name": "Profesor de inglés",
-            "startDate": "2011-09-01",
-            "finishDate": "2012-05-31"
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "YMCA España",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/07/756b0645-4176-4164-8f0b-28041f7bbdd0_linkedin-photo-46068.linkedin-photo-46068",
-            "alt": "24/02/07/756b0645-4176-4164-8f0b-28041f7bbdd0_linkedin-photo-46068.linkedin-photo-46068"
-          }
-        },
-        "roles": [
-          {
-            "name": "Coordinador de programa y voluntariado en campamentos de EEUU",
-            "startDate": "2008-06-01",
-            "finishDate": "2008-08-31"
-          }
-        ]
       }
     ]
   },
@@ -340,8 +129,8 @@
         "institution": {
           "name": "Universidad Complutense de Madrid",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/07/0645abbc-d3e3-431c-baaf-962ae1a8669d_linkedin-photo-46068.linkedin-photo-46068",
-            "alt": "24/02/07/0645abbc-d3e3-431c-baaf-962ae1a8669d_linkedin-photo-46068.linkedin-photo-46068"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/07/1327e1c0-f970-47d7-933d-66803277273a_linkedin-photo-46068.linkedin-photo-46068",
+            "alt": "24/02/07/1327e1c0-f970-47d7-933d-66803277273a_linkedin-photo-46068.linkedin-photo-46068"
           }
         },
         "finishDate": "2012-01-01"
@@ -364,8 +153,8 @@
         "institution": {
           "name": "Ironhack",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/07/effdd8a3-b9cd-4c58-a33e-639394f5352d_linkedin-photo-46068.linkedin-photo-46068",
-            "alt": "24/02/07/effdd8a3-b9cd-4c58-a33e-639394f5352d_linkedin-photo-46068.linkedin-photo-46068"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/07/633401ce-b27f-4564-a422-82b6e51168ae_linkedin-photo-46068.linkedin-photo-46068",
+            "alt": "24/02/07/633401ce-b27f-4564-a422-82b6e51168ae_linkedin-photo-46068.linkedin-photo-46068"
           }
         },
         "finishDate": "2019-01-01"
