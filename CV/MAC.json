@@ -396,6 +396,12 @@
       },
       {
         "skill": {
+          "name": "Autonomy in learning",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
           "name": "Team player",
           "type": "practice"
         }
