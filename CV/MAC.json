@@ -465,6 +465,7 @@
         "type": "technology"
       }
     ],
-    "desiredJobDescription": "I would like to work in a place where people have a similar culture. Where people follow agile best practices, communicate with all members of a cross-functional team (architecture design, approach, etc.). Also people who champion continuous delivery best practices. For example, iterative \"MVP\" approach, frequent releases, automation. One of the things I value most is for the team to master best practices such as Clean Code, Pair Programming and TDD"
+    "desiredJobDescription": "I would like to work in a place where people have a similar culture. Where people follow agile best practices, communicate with all members of a cross-functional team (architecture design, approach, etc.). Also people who champion continuous delivery best practices. For example, iterative \"MVP\" approach, frequent releases, automation. One of the things I value most is for the team to master best practices such as Clean Code, Pair Programming and TDD",
+    "goodPractices": "I consider TDD to be important, I think testing is an indispensable part of development and I always apply it, both unit testing and integration testing. I try to apply and understand SOLID, KISS... Cleanliness and well written and documented code is something very essential when working. And this is something I try to apply every day if possible. \n\nAgile methodologies:\nClean Code, TDD, pair programming.\n\nRegarding CI/CD I think it's important to deploy automatically and it's really essential to use toggles and feature flags.\n\n\n\n\n"
   }
 }
