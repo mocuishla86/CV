@@ -396,6 +396,10 @@
         {
           "name": ".Net Core",
           "type": "technology"
+        },
+        {
+          "name": "Kubernetes",
+          "type": "technology"
         }
       ],
       "preferredRoles": [
