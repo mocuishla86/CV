@@ -8,11 +8,11 @@
     "profile": {
       "name": "Isabel",
       "surnames": "Llanes",
-      "title": "Software Consultant at Thoughtworks",
-      "description": "I am a backend developer with experience in Java and .Net contributing to small groups. I have grown through hard work and dedication as I am a career changer and also thanks to my mentors during my work at Thoughtworks. \nI have worked with microservices and databases, I have also worked as DevOps (building pipelines and deploying microservices on Kubernetes) and have knowledge with cloud tools as Azure. I also have some experience with Data (Scala Spark for scalability and some in Python for scripting) \n\nI regard myself as a flexible person and able to switch roles, my speciality is backend development, although I have a background in infrastructure. \n\nAnd finally I see Agile as one of my pillars for development.\nI consider myself to have soft skills as I am willing to push the team and maintain a good relationship with the customer. ",
+      "title": "Software Engineer @ Wizeline",
+      "description": "Full Stack Developer\n\nJavaScript / Python / Java / C# / DevOps",
       "avatar": {
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/07/585c814d-c80f-437d-bebd-bf32e9943225_linkedin-photo-46068.linkedin-photo-46068",
-        "alt": "24/02/07/585c814d-c80f-437d-bebd-bf32e9943225_linkedin-photo-46068.linkedin-photo-46068"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/26/a1fc1837-80ef-4d29-a05e-878134447bd5_linkedin-photo-46068.linkedin-photo-46068",
+        "alt": "24/04/26/a1fc1837-80ef-4d29-a05e-878134447bd5_linkedin-photo-46068.linkedin-photo-46068"
       },
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJd_LANWMvQg0RGYggE7EPcZM)",
@@ -24,137 +24,6 @@
       {
         "type": "linkedin",
         "URL": "https://linkedin.com/in/isabel-llanes-131bb2178"
-      }
-    ]
-  },
-  "experience": {
-    "jobs": [
-      {
-        "organization": {
-          "name": "Thoughtworks",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/07/5149768c-8976-417c-85b9-0569dfe0d96a_linkedin-photo-46068.linkedin-photo-46068",
-            "alt": "24/02/07/5149768c-8976-417c-85b9-0569dfe0d96a_linkedin-photo-46068.linkedin-photo-46068"
-          }
-        },
-        "roles": [
-          {
-            "name": "Software Consultant",
-            "startDate": "2022-10-01",
-            "challenges": [
-              {
-                "description": "Skills: Metodologías ágiles · Integración continua y entrega continua (CI/CD) · GitLab · Docker · Helm · Kubernetes · Microsoft Azure · Jenkins · Python · Apache Spark · jupiter · SQL · Java · Maven"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Thoughtworks",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/07/307fcc9d-c0a0-429c-be77-c7cebb516915_linkedin-photo-46068.linkedin-photo-46068",
-            "alt": "24/02/07/307fcc9d-c0a0-429c-be77-c7cebb516915_linkedin-photo-46068.linkedin-photo-46068"
-          }
-        },
-        "roles": [
-          {
-            "name": "Graduate Software Consultant",
-            "startDate": "2021-07-01",
-            "finishDate": "2022-10-31",
-            "challenges": [
-              {
-                "description": "Skills: Metodologías ágiles · Desarrollo de software · C# · .NET Framework · TeamCity · TDD"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Thoughtworks",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/07/e06a88b8-7bac-4c30-8be6-c23e4d9c4a9c_linkedin-photo-46068.linkedin-photo-46068",
-            "alt": "24/02/07/e06a88b8-7bac-4c30-8be6-c23e4d9c4a9c_linkedin-photo-46068.linkedin-photo-46068"
-          }
-        },
-        "roles": [
-          {
-            "name": "Thoughtworks Univesity",
-            "startDate": "2021-05-01",
-            "finishDate": "2021-07-31",
-            "challenges": [
-              {
-                "description": "2 months long development program where I could grow in skills like:\n\n- Backend / Front End web development\n- API and Service Design\n- TDD\n- Continuous Integration\n- Getting Code into Production\n- Clean Code\n- Clean Architecture\n- Collaboration and Feedback\n\nAlso during this program I had the opportunity to acquire excellent soft skills during 1:1 sessions, retrospectives, standups and communication within the whole team."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "GroupM",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/07/70797a8e-f144-432b-8b40-2becf99f1562_linkedin-photo-46068.linkedin-photo-46068",
-            "alt": "24/02/07/70797a8e-f144-432b-8b40-2becf99f1562_linkedin-photo-46068.linkedin-photo-46068"
-          }
-        },
-        "roles": [
-          {
-            "name": "Ad Ops Executive",
-            "startDate": "2019-05-01",
-            "finishDate": "2021-04-30",
-            "challenges": [
-              {
-                "description": "Main functions as GroupM Ad Operations Executive or Trafficker were:\n- Management and implementation of advertising campaigns for Mindshare, a global media agency.\n- Checking the technical feasibility of the implementation of digital campaigns and troubleshooting.\n- Traffic, tracking and optimisation of campaigns from different ad servers Google, Sizmek Amazon).\n- Management of scripts for implementation in digital media.\n- Main contact person for the creative agency.\n- Implementation of third party pixels and cookies using Javascript and Google Tag Manager\n- Audience review with Google Analytics."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Inter-Com English, S.A."
-        },
-        "roles": [
-          {
-            "name": "Educadora infantil de inglés",
-            "startDate": "2016-06-01",
-            "finishDate": "2016-07-31"
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "CRC Information Technologies",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/07/42f9afc8-1b0d-4efd-ad39-f47df7a31f8c_linkedin-photo-46068.linkedin-photo-46068",
-            "alt": "24/02/07/42f9afc8-1b0d-4efd-ad39-f47df7a31f8c_linkedin-photo-46068.linkedin-photo-46068"
-          }
-        },
-        "roles": [
-          {
-            "name": "Profesor de inglés",
-            "startDate": "2011-09-01",
-            "finishDate": "2012-05-31"
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "YMCA España",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/07/c73d0845-a39a-4990-957b-54c8bab87ce0_linkedin-photo-46068.linkedin-photo-46068",
-            "alt": "24/02/07/c73d0845-a39a-4990-957b-54c8bab87ce0_linkedin-photo-46068.linkedin-photo-46068"
-          }
-        },
-        "roles": [
-          {
-            "name": "Coordinador de programa y voluntariado en campamentos de EEUU",
-            "startDate": "2008-06-01",
-            "finishDate": "2008-08-31"
-          }
-        ]
       }
     ]
   },
@@ -258,12 +127,6 @@
       },
       {
         "skill": {
-          "name": "JAVA",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "JSON",
           "type": "technology"
         }
@@ -271,6 +134,12 @@
       {
         "skill": {
           "name": "JUnit",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Java",
           "type": "technology"
         }
       },
@@ -386,26 +255,6 @@
         },
         "finishDate": "2019-01-01"
       }
-    ],
-    "softSkills": [
-      {
-        "skill": {
-          "name": "Adaptability to change",
-          "type": "practice"
-        }
-      },
-      {
-        "skill": {
-          "name": "Autonomy in learning",
-          "type": "practice"
-        }
-      },
-      {
-        "skill": {
-          "name": "Team player",
-          "type": "practice"
-        }
-      }
     ]
   },
   "careerPreferences": {
@@ -423,7 +272,7 @@
     "preferences": {
       "preferredCompetences": [
         {
-          "name": "JAVA",
+          "name": "Java",
           "type": "technology"
         },
         {
@@ -449,11 +298,11 @@
         "type": "technology"
       },
       {
-        "name": "JAVA",
+        "name": "JUnit",
         "type": "technology"
       },
       {
-        "name": "JUnit",
+        "name": "Java",
         "type": "technology"
       },
       {
