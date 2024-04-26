@@ -11,8 +11,8 @@
       "title": "Software Engineer @ Wizeline",
       "description": "Full Stack Developer\n\nJavaScript / Python / Java / C# / DevOps",
       "avatar": {
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/26/a1fc1837-80ef-4d29-a05e-878134447bd5_linkedin-photo-46068.linkedin-photo-46068",
-        "alt": "24/04/26/a1fc1837-80ef-4d29-a05e-878134447bd5_linkedin-photo-46068.linkedin-photo-46068"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/26/c5488720-b111-4594-9465-830dc1a60efa_linkedin-photo-46068.linkedin-photo-46068",
+        "alt": "24/04/26/c5488720-b111-4594-9465-830dc1a60efa_linkedin-photo-46068.linkedin-photo-46068"
       },
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJd_LANWMvQg0RGYggE7EPcZM)",
@@ -24,6 +24,158 @@
       {
         "type": "linkedin",
         "URL": "https://linkedin.com/in/isabel-llanes-131bb2178"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Wizeline",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/26/3bf2e544-978a-46df-9116-26bd3b44a05d_linkedin-photo-46068.linkedin-photo-46068",
+            "alt": "24/04/26/3bf2e544-978a-46df-9116-26bd3b44a05d_linkedin-photo-46068.linkedin-photo-46068"
+          }
+        },
+        "roles": [
+          {
+            "name": "Software Engineer III",
+            "startDate": "2024-03-01",
+            "challenges": [
+              {
+                "description": "Skills: .NET Core · RabbitMQ · Azure Kubernetes Service (AKS)"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Thoughtworks",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/26/8000e8f2-f903-4835-9529-1db20371e15a_linkedin-photo-46068.linkedin-photo-46068",
+            "alt": "24/04/26/8000e8f2-f903-4835-9529-1db20371e15a_linkedin-photo-46068.linkedin-photo-46068"
+          }
+        },
+        "roles": [
+          {
+            "name": "Software Consultant",
+            "startDate": "2022-10-01",
+            "finishDate": "2024-03-31",
+            "challenges": [
+              {
+                "description": "Skills: Metodologías ágiles · Integración continua y entrega continua (CI/CD) · GitLab · Docker · Helm · Kubernetes · Microsoft Azure · Jenkins · Python · Apache Spark · jupiter · SQL · Java · Maven"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Thoughtworks",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/26/906aac28-348b-4ab1-9dbd-9cf08fbd61b0_linkedin-photo-46068.linkedin-photo-46068",
+            "alt": "24/04/26/906aac28-348b-4ab1-9dbd-9cf08fbd61b0_linkedin-photo-46068.linkedin-photo-46068"
+          }
+        },
+        "roles": [
+          {
+            "name": "Graduate Software Consultant",
+            "startDate": "2021-07-01",
+            "finishDate": "2022-10-31",
+            "challenges": [
+              {
+                "description": "Skills: Metodologías ágiles · Desarrollo de software · C# · TeamCity · TDD · .NET Core"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Thoughtworks",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/26/39c8e93f-6d27-47b3-82c7-291a96db3f1c_linkedin-photo-46068.linkedin-photo-46068",
+            "alt": "24/04/26/39c8e93f-6d27-47b3-82c7-291a96db3f1c_linkedin-photo-46068.linkedin-photo-46068"
+          }
+        },
+        "roles": [
+          {
+            "name": "Thoughtworks Univesity",
+            "startDate": "2021-05-01",
+            "finishDate": "2021-07-31",
+            "challenges": [
+              {
+                "description": "2 months long development program where I could grow in skills like:\n\n- Backend / Front End web development\n- API and Service Design\n- TDD\n- Continuous Integration\n- Getting Code into Production\n- Clean Code\n- Clean Architecture\n- Collaboration and Feedback\n\nAlso during this program I had the opportunity to acquire excellent soft skills during 1:1 sessions, retrospectives, standups and communication within the whole team."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "GroupM",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/26/d5d9ffa5-df3f-480b-b13f-7c1fe6649c04_linkedin-photo-46068.linkedin-photo-46068",
+            "alt": "24/04/26/d5d9ffa5-df3f-480b-b13f-7c1fe6649c04_linkedin-photo-46068.linkedin-photo-46068"
+          }
+        },
+        "roles": [
+          {
+            "name": "Ad Ops Executive",
+            "startDate": "2019-05-01",
+            "finishDate": "2021-04-30",
+            "challenges": [
+              {
+                "description": "Main functions as GroupM Ad Operations Executive or Trafficker were:\n- Management and implementation of advertising campaigns for Mindshare, a global media agency.\n- Checking the technical feasibility of the implementation of digital campaigns and troubleshooting.\n- Traffic, tracking and optimisation of campaigns from different ad servers Google, Sizmek Amazon).\n- Management of scripts for implementation in digital media.\n- Main contact person for the creative agency.\n- Implementation of third party pixels and cookies using Javascript and Google Tag Manager\n- Audience review with Google Analytics."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Inter-Com English, S.A."
+        },
+        "roles": [
+          {
+            "name": "Educadora infantil de inglés",
+            "startDate": "2016-06-01",
+            "finishDate": "2016-07-31"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "CRC Information Technologies",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/26/0504b9af-2fb6-46ce-95e9-7e07f0a4cc56_linkedin-photo-46068.linkedin-photo-46068",
+            "alt": "24/04/26/0504b9af-2fb6-46ce-95e9-7e07f0a4cc56_linkedin-photo-46068.linkedin-photo-46068"
+          }
+        },
+        "roles": [
+          {
+            "name": "Profesor de inglés",
+            "startDate": "2011-09-01",
+            "finishDate": "2012-05-31"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "YMCA España",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/26/c892ae93-f6d3-49cc-825c-0525c5208d99_linkedin-photo-46068.linkedin-photo-46068",
+            "alt": "24/04/26/c892ae93-f6d3-49cc-825c-0525c5208d99_linkedin-photo-46068.linkedin-photo-46068"
+          }
+        },
+        "roles": [
+          {
+            "name": "Coordinador de programa y voluntariado en campamentos de EEUU",
+            "startDate": "2008-06-01",
+            "finishDate": "2008-08-31"
+          }
+        ]
       }
     ]
   },
