@@ -392,6 +392,12 @@
       ]
     },
     "preferences": {
+      "preferredCompetences": [
+        {
+          "name": ".Net Core",
+          "type": "technology"
+        }
+      ],
       "preferredRoles": [
         "Data Engineer",
         "Full-stack Developer"
