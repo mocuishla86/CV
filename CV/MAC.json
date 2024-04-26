@@ -398,6 +398,10 @@
           "type": "technology"
         },
         {
+          "name": "Java",
+          "type": "technology"
+        },
+        {
           "name": "Kubernetes",
           "type": "technology"
         }
